@@ -2,6 +2,7 @@ React E-Commerce App
 
 - React
 - Strapi
+- Stripe
 - SCSS
 - Axios
 - Redux
