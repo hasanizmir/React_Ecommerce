@@ -6,6 +6,7 @@ React E-Commerce App
 - SCSS
 - Axios
 - Redux
+- MySQL Database
 
 ## Screenshot
 
